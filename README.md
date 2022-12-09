@@ -64,9 +64,11 @@ Statements for Tables`).
 ## MySQL
 
 Создать базу данных `«university»` в программе-дизайнере `MySQL Workbench`.
+
 ![CREATE](img/1.png)
 
-В базе данных `«university»` создать таблицу `«students»`
+В базе данных `«university»` создать таблицу `«students»`.
+
 ![CREATE](img/2.png)
 
 Активизировать базу данных `«university»` (команда `use`).
